@@ -1,4 +1,5 @@
-<t>
-	<d r="00025" v="&quot;5" />
-	<d r="03001" v="&amp;XG0002" />
-</t>
+<cart>
+  <product name="Notebook" value="2000.0"/>
+  <product name="Joana D&apos;Arc Book" value="27.0"/>
+  <product name="Dark/Grey Guittar" value="300.0"/>
+</cart>
